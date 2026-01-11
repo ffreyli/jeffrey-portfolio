@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Astro](https://astro.build) Blog Template
 
 [![Screenshot](screenshot.png)](https://astro-blog-template.netlify.app/)
@@ -62,3 +63,6 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [Astro's documentation](https://github.com/withastro/astro) or jump into Astro's [Discord server](https://astro.build/chat).
+=======
+# jeffrey-portfolio
+>>>>>>> b8fc04bd444b9264503462b027055433ff0819cd
